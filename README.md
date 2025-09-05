@@ -11,6 +11,12 @@ Ik zit ij het VTI van waregem ezn ik volg daar applicatie en databeheer
 
 - Databases: MySQL (basis)
 
+# Ervaring/projecten
+
+- Schoolprojecten: Oefeningen en projecten in C# en Python.
+- jaaropdracht: dammen gemaakt in visual studio
+- Travis Scott Fanhub: Blazor-website met info en funfacts.
+
 # Contact
 
 Locatie: 8780 Oostrozebeke, België
@@ -20,13 +26,6 @@ Telefoon: +32 483 99 37 13
 E-mail: derveauxviktor08@gmail.com
 
 tiktok: https://www.tiktok.com/@hoop3ditz
-
-# Ervaring/projecten
-
-- Schoolprojecten: Oefeningen en projecten in C# en Python.
-- jaaropdracht: dammen gemaakt in visual studio
-- Travis Scott Fanhub: Blazor-website met info en funfacts.
-
 
 
 <!--
