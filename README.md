@@ -1,31 +1,31 @@
-# Hallo, ik ben Viktor Derveaux
+# Hallo, ik ben Viktor Derveaux 👋
 
-ik ben 17 jaar.
-Ik zit ij het VTI van waregem ezn ik volg daar applicatie en databeheer 
+💡ik ben 17 jaar, Ik speel Basketbal.
+🎓Ik zit ij het VTI van waregem en ik volg daar applicatie en databeheer. 
 
-# Vaardigheden & Tools
+# Vaardigheden & Tools 🛠️
 
 - Talen: C#, Python, 
 
-- HTML, CSS, Blazor
+- HTML, CSS, Blazor,
 
 - Databases: MySQL (basis)
 
-# Ervaring/projecten
+# Ervaring/projecten 📚
 
 - Schoolprojecten: Oefeningen en projecten in C# en Python.
-- jaaropdracht: dammen gemaakt in visual studio
-- Travis Scott Fanhub: Blazor-website met info en funfacts.
+- jaaropdracht: dammen gemaakt in visual studio.
+- Travis Scott Fanhub: Blazor-website met info en funfacts. 🎵
 
-# Contact
+# Contact 
 
-Locatie: 8780 Oostrozebeke, België
+📍 Locatie: 8780 Oostrozebeke, België
 
-Telefoon: +32 483 99 37 13
+📱 Telefoon: +32 483 99 37 13
 
-E-mail: derveauxviktor08@gmail.com
+✉️E-mail: derveauxviktor08@gmail.com
 
-tiktok: https://www.tiktok.com/@hoop3ditz
+🌐 tiktok: https://www.tiktok.com/@hoop3ditz
 
 
 <!--
